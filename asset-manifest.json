@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pokemoncards/static/css/main.8f0ecdcc.css",
+    "main.js": "/Pokemoncards/static/js/main.d1fb0aa4.js",
+    "static/js/787.16165703.chunk.js": "/Pokemoncards/static/js/787.16165703.chunk.js",
+    "static/media/Gruoup.png": "/Pokemoncards/static/media/Gruoup.4c82a04ddf386bf7258e.png",
+    "static/media/Logo.gif": "/Pokemoncards/static/media/Logo.ee1b7ad28fb2a8813a8d.gif",
+    "index.html": "/Pokemoncards/index.html",
+    "main.8f0ecdcc.css.map": "/Pokemoncards/static/css/main.8f0ecdcc.css.map",
+    "main.d1fb0aa4.js.map": "/Pokemoncards/static/js/main.d1fb0aa4.js.map",
+    "787.16165703.chunk.js.map": "/Pokemoncards/static/js/787.16165703.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f0ecdcc.css",
+    "static/js/main.d1fb0aa4.js"
+  ]
+}
